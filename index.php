@@ -3,9 +3,9 @@
  *
  * Encode Explorer
  *
- * Author : Marek Rei (marek ät marekrei dot com)
- * Version : 6.4.1
- * Homepage : encode-explorer.siineiolekala.net
+ * Author : Marek Rei
+ * Changed by : Vincent de Koning
+ * Version : 6.4.2
  *
  *
  * NB!:If you change anything, save with UTF-8! Otherwise you may
@@ -48,8 +48,8 @@ $_CONFIG['thumbnails'] = true;
 // Default: $_CONFIG['thumbnails_width'] = 200;
 // Default: $_CONFIG['thumbnails_height'] = 200;
 //
-$_CONFIG['thumbnails_width'] = 300;
-$_CONFIG['thumbnails_height'] = 300;
+$_CONFIG['thumbnails_width'] = 250;
+$_CONFIG['thumbnails_height'] = 250;
 
 //
 // Mobile interface enabled. true/false
